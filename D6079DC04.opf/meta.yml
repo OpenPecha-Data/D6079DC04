@@ -1,0 +1,22 @@
+id: D6079DC04
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-04-08T09:40:10+00:00'
+last_modified: '2022-05-30T07:36:55.098915+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    e1a3:
+      image_group_id: I1PD95892
+      title: ''
+      total_pages: 1464
+      order: 47
+      base_file: e1a3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null

@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   6febd400dedf4288bfbefd7c315170db:
     parts: {}
+    work_id: N3795
     span:
-    - vol: 47
+    - base: e1a3
       start: 0
       end: 2702
-    work_id: N3795
